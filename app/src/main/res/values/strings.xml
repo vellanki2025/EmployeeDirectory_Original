@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Employee Directory</string>
+
+    <string name="error_msg_fetching_data" translatable="false">Error fetching data</string>
+    <string name="error_msg_for_empty_list" translatable="false">No data available</string>
+
+</resources>
